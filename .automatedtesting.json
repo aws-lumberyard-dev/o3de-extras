@@ -20,8 +20,8 @@
     "REPOS": [
         {
             "NAME": "o3de",
-            "URL": "https://github.com/aws-lumberyard-dev/o3de.git",
-            "BRANCH": "external_repo"
+            "URL": "https://github.com/o3de/o3de.git",
+            "BRANCH": "development"
         }
     ]
 }
