@@ -16,5 +16,12 @@
     "ENABLE_GEMS": [
         "Gems/XR",
         "Gems/OpenXRVk"
+    ],
+    "REPOS": [
+        {
+            "NAME": "o3de",
+            "URL": "https://github.com/aws-lumberyard-dev/o3de.git",
+            "BRANCH": "external_repo"
+        }
     ]
 }
